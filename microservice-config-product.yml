@@ -38,7 +38,7 @@ eureka:
     prefer-ip-address: true 
 ---
 server:
-  port: 8009
+  port: 8001
 mybatis:
   config-location: classpath:mybatis/mybatis.cfg.xml 
   type-aliases-package: com.mengxuegu.springcloud.entities
